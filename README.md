@@ -1,2 +1,2 @@
 # Speed-Typing-Game
-This Python script traces a phone number's country and carrier, retrieves its geographic coordinates using the OpenCage API, and maps the location with folium, saving it as an HTML file.
+This Speed Typing Game combines a user-friendly Tkinter GUI with a Deep Q-Network (DQN) agent. Players type displayed words within a time limit, earning or losing points based on accuracy.
